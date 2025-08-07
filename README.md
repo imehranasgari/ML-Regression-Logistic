@@ -70,6 +70,9 @@ Not included in this notebook, but sample outputs include:
 * Predicted labels vs. actual
 * Model evaluation via `sklearn.metrics`
 
+
+* Some interactive outputs (e.g., plots, widgets) may not display correctly on GitHub. If so, please view this notebook via [nbviewer.org](https://nbviewer.org) for full rendering. *
+
 ## 🧠 Additional Notes & Learning Outcomes
 
 * Demonstrates knowledge of supervised learning pipelines.
